@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+nav{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0 20px;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  video {
+    width: 500px;
+    margin: 20px 0;
+  }
